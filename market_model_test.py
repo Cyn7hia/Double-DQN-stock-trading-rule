@@ -246,7 +246,7 @@ class ModelEvaluate(object):
     max_memory = 18  # review: original 5000
     batch_size = 18
     discount = 0.8
-    n_steps = 6
+    n_steps = 5
     backpropagate = True'''
 
 
